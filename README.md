@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohanrajpal)](https://github.com/anuraghazra/github-readme-stats)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrajpal)
