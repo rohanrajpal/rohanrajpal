@@ -8,5 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking
 
-![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrajpal&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanrajpal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrajpal&theme=radical)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohanrajpal&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
