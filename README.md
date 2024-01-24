@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [developing awesome blogs](https://rohanrajpal.github.io/blog/)
-- 🌱 I’m currently learning Kotlin, Spring Boot and the DevOps around it
-- 👯 I’m looking to collaborate on any open source project, open to discuss ideas
-- 💬 Ask me about Blogging, Backend, Deep Learning, Cloud, Data Engineering
-- 📫 How to reach me: howdyrohan@gmail.com
-- 😄 Pronouns: he/him
+- 🌱 I’m currently enabling folks to Empower Your Ideas: Swift App Development with [Launchnow]([url](https://www.launchnow.pro/))
 - ⚡ Fun fact: I love cooking, dancing and travelling
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrajpal&theme=radical)  
